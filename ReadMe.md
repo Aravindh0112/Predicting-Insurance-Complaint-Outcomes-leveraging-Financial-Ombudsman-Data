@@ -8,7 +8,7 @@ The Financial Ombudsman Service (FOS) is a UK body that resolves disputes betwee
 
 The data is open-source, comprising a collection of insurance complaints in PDF format, available for download from the Financial Ombudsman Service website.
 
-## Stages in the pipeline deployed:
+## ML pipeline:
 
 1. Data Preprocessing
 2. Exploratory Data Analysis
